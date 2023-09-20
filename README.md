@@ -46,7 +46,7 @@ CLOUDINARY_API_SECRET="<cloudinary_api_secret>"
 Make sure to replace `your-openai-api-key`, `your-cloudinary-api-key`, `your-cloudinary-api-secret` and `mongodb_url` with your own API keys obtained from the OpenAI, Cloudinary and Mongodb platforms.
 
 5. Save the `.env` file.
-6. Run the application: `npm start`
+6. Run the application in split terminal for `client` and `server`: `npm run dev` and `npm start` respectively
 
 Please note that without configuring the API keys correctly, the application may not function properly. Ensure that you have valid API keys from OpenAI and Cloudinary to fully utilize the NeuroPalette features.
 
