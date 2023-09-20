@@ -43,7 +43,7 @@ CLOUDINARY_CLOUD_NAME="<cloudinary_cloud_name>"
 CLOUDINARY_API_KEY="<cloudinary_api_key>"
 CLOUDINARY_API_SECRET="<cloudinary_api_secret>"
 ```
-Make sure to replace `your-openai-api-key`, `your-cloudinary-api-key`, and `your-cloudinary-api-secret` with your own API keys obtained from the OpenAI and Cloudinary platforms.
+Make sure to replace `your-openai-api-key`, `your-cloudinary-api-key`, `your-cloudinary-api-secret` and `mongodb_url` with your own API keys obtained from the OpenAI, Cloudinary and Mongodb platforms.
 
 5. Save the `.env` file.
 6. Run the application: `npm start`
