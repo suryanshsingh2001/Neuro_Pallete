@@ -30,14 +30,18 @@ Join us on this creative journey as we push the boundaries of AI-generated art w
 
 To get started with NeuroPalette, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/neuropalette.git`
-2. Install the necessary dependencies: `npm install`
-3. Create a new `.env` file in the root directory of the project.
+1. Clone the repository: `git clone https://github.com/suryanshsingh2001/Neuro_Pallete.git`
+2. Install the necessary dependencies: `npm install` on both `client` and `server`.
+3. Create a new `.env` file in the `server` folder of the project.
 4. Set up the required API credentials by adding the following lines to the `.env` file:
+
 ```
-OPENAI_API_KEY=your-openai-api-key
-CLOUDINARY_API_KEY=your-cloudinary-api-key
-CLOUDINARY_API_SECRET=your-cloudinary-api-secret
+OPENAI_API_KEY="<open_api_key>"
+MONGODB_URL="<mongodb_url>"
+
+CLOUDINARY_CLOUD_NAME="<cloudinary_cloud_name>"
+CLOUDINARY_API_KEY="<cloudinary_api_key>"
+CLOUDINARY_API_SECRET="<cloudinary_api_secret>"
 ```
 Make sure to replace `your-openai-api-key`, `your-cloudinary-api-key`, and `your-cloudinary-api-secret` with your own API keys obtained from the OpenAI and Cloudinary platforms.
 
