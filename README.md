@@ -6,13 +6,13 @@ Welcome to NeuroPallete! This innovative platform harnesses the power of the DAL
 [Watch Demo](https://youtu.be/kCuvPMvV3Gc)
 
 ## Home Page 
-![Home](https://raw.githubusercontent.com/suryanshsingh2001/Neuro_Pallete/main/Home%20Page.png) 
+![Home](https://github.com/suryanshsingh2001/Neuro_Pallete/blob/main/Home%20Page.png?raw=true) 
 
 ## Search Page
-![Search](https://raw.githubusercontent.com/suryanshsingh2001/Neuro_Pallete/main/Search.png)
+![Search](https://github.com/suryanshsingh2001/Neuro_Pallete/blob/main/Search.png?raw=true)
 
 ## Create Page
-![Search](https://raw.githubusercontent.com/suryanshsingh2001/Neuro_Pallete/main/Create.png)
+![Search](https://github.com/suryanshsingh2001/Neuro_Pallete/blob/main/Create.png?raw=true)
 
 ## Features:
 
