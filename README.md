@@ -3,10 +3,16 @@
 
 <br>
 
+>Please be aware that the AI functionality on the deployed website relies on OpenAI services. In some cases, the AI features may not work as expected if there are low or no OpenAI credits available.
+
+<br>
+
 🔗[Live Link](https://neuropallete.vercel.app/)
 
 <br>
+
 Welcome to NeuroPallete! This innovative platform harnesses the power of the DALLE API to generate stunning images. With a dedicated community home page, users can explore a vast collection of prompts and their corresponding AI-generated images.
+
  
 [Watch Demo](https://youtu.be/kCuvPMvV3Gc)
 
